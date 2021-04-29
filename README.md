@@ -1,2 +1,2 @@
 # Calculator
-A Calculator WEB APP using HTML, CSS and Javascript.
+A Calculator Web App using HTML, CSS and Javascript.
